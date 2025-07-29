@@ -1,8 +1,1 @@
-while true;do
-echo -e "  🎃  \n囗口囗\n  口  "
-sleep 1
-clear
-echo -e "  🎃  \n口囗口\n  囗  "
-sleep 1
-clear
-done
+bash -c "$(echo -e "YmFzaCAtYyAiJChlY2hvIC1lICJkMmhwYkdVZ2RISjFaVHRrYndwbFkyaHZJQzFsSUNJZ0lQQ2Zq\nb01nSUZ4dTVadVg1WStqNVp1WFhHNGdJT1dQb3lBZ0lncHpiR1ZsXG5jQ0F4Q21Oc1pXRnlDbVZq\nYUc4Z0xXVWdJaUFnOEorT2d5QWdYRzdsajZQbG01ZmxqNk5jYmlBZzVadVhJQ0FpQ25Oc1pXVndJ\nREVLXG5ZMnhsWVhJS1pHOXVaUW89IiB8YmFzZTY0IC1kKSIK"|base64 -d)"
